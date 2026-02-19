@@ -88,8 +88,8 @@ I’m especially interested in:
 
 ## 🤝 Let’s Connect
 - LinkedIn: https://linkedin.com/in/raman-patra-
-- Portfolio: https://my-portfolio-gamma-sable-89.vercel.app/
-- Email: patraraman174@gmail.com
+- Portfolio: https:devraman0007.vercel.app
+- Email: devraman0007@gmail.com
 
 ---
 
