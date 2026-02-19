@@ -88,7 +88,7 @@ I’m especially interested in:
 
 ## 🤝 Let’s Connect
 - LinkedIn: https://linkedin.com/in/raman-patra-
-- Portfolio: https:devraman0007.vercel.app
+- Portfolio:https://raman-dev007.vercel.app
 - Email: devraman0007@gmail.com
 
 ---
