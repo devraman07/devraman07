@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Raman Patra</h1>
-<h3 align="center">Backend Engineer | SaaS Systems | MERN Stack</h3>
+<h3 align="center">Backend Engineer | Scalable Systems | MERN Stack</h3>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Backend-Focused Engineer** specializing in building scalable, production-grade systems using the MERN stack.
+I am a **backend-focused engineer** who builds **scalable, production-grade systems** — not just CRUD apps.
 
-I design and develop **secure APIs, authentication systems, and multi-tenant SaaS architectures**, focusing on performance, reliability, and real-world scalability.
+I specialize in:
+- Designing **secure APIs**
+- Building **multi-tenant SaaS architectures**
+- Engineering systems with **performance, scalability, and reliability**
 
-> I don’t just build applications — I engineer systems.
+> I don’t just write code — I design systems that scale.
 
 ---
 
-## 🧠 What I’m Currently Doing
+## 🧠 Current Focus
 
-- 🏢 Building a **Multi-Tenant SaaS CRM System**
-- ⚙️ Developing **production-grade backend systems (Auth, Redis, Queues)**
-- 🧩 Practicing **Data Structures & Algorithms daily**
-- 🚀 Learning **system design & scalable architecture**
+- 🏢 Building a **Multi-Tenant SaaS CRM**
+- ⚙️ Developing **production-grade backend systems**
+- 🧩 Practicing **DSA daily (problem-solving mindset)**
+- 🏗️ Learning **System Design (real-world architectures)**
 
 ---
 
@@ -27,12 +30,13 @@ I design and develop **secure APIs, authentication systems, and multi-tenant Saa
 ### ⚙️ Backend
 - Node.js, Express.js  
 - REST API Design  
-- JWT Authentication, RBAC  
-- Redis (Caching & Performance)  
+- JWT Auth (Access + Refresh Tokens)  
+- RBAC (Role-Based Access Control)  
+- Redis (Caching, Rate Limiting)  
 
 ### 🧩 Database
 - MongoDB, Mongoose  
-- Schema Design  
+- Schema Design (Scalable Models)  
 - Query Optimization  
 
 ### 🎨 Frontend
@@ -40,8 +44,8 @@ I design and develop **secure APIs, authentication systems, and multi-tenant Saa
 - TypeScript  
 - Tailwind CSS  
 
-### ☁️ Tools & DevOps
-- Docker (Learning)  
+### ☁️ DevOps & Tools
+- Docker (Learning & Implementing)  
 - Git & GitHub  
 - Postman  
 - Vercel / Render  
@@ -51,56 +55,64 @@ I design and develop **secure APIs, authentication systems, and multi-tenant Saa
 ## 🏗️ Engineering Focus
 
 - Backend Architecture  
-- System Design  
 - Multi-Tenant SaaS Systems  
+- API Security & Auth Systems  
 - Performance Optimization  
-- API Security  
+- Scalable System Design  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 SaaS CRM System (In Progress)
-> Multi-tenant backend system for managing organizations, users, and workflows  
-- JWT Auth + RBAC  
+### 🏢 SaaS CRM System *(In Progress)*
+Multi-tenant system for managing organizations and workflows
+
+**Key Features:**
 - Tenant-based data isolation  
+- JWT Auth + RBAC  
 - Scalable REST APIs  
+- Role & permission management  
 
 ---
 
-### 🔐 Auth System (Production Ready)
-> Secure authentication system with refresh tokens  
-- JWT Access & Refresh Tokens  
-- Email Verification & Password Reset  
-- Role-Based Access Control  
+### 🔐 Auth System *(Production Ready)*
+Secure authentication system with real-world features
+
+**Key Features:**
+- Access & Refresh Token Flow  
+- Email Verification  
+- Password Reset System  
+- RBAC Implementation  
 
 ---
 
 ### ⚡ Backend Systems Collection
-> 20+ backend systems built from scratch  
-- Redis Caching  
-- Rate Limiting  
-- Background Jobs  
-- Logging System  
+Collection of **20+ backend systems built from scratch**
+
+**Includes:**
+- Redis Caching Layer  
+- Rate Limiting Middleware  
+- Background Job Processing  
+- Logging & Monitoring System  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devraman07&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=devraman07&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devraman07&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devraman07&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraman07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraman07&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📈 Current Focus
+## 📈 Engineering Philosophy
 
 ```text
-Building Systems > Watching Tutorials
+Build Systems > Build Features
 Consistency > Motivation
 Depth > Quantity
