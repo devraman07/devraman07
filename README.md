@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raman Patra</h1>
+<h1 align="center">Hi 👋, Myself Raman Patra</h1>
 
 <h3 align="center">
 Backend Engineer • Scalable Systems • MERN Stack
