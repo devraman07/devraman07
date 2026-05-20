@@ -1,94 +1,159 @@
-# Raman Patra
+<div align="center">
 
-Backend Engineer focused on scalable systems, APIs, authentication, and distributed systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Raman%20Patra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Scalable%20Systems%20•%20MERN%20Stack&descSize=16&descAlignY=58&descColor=8ba7c7" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111827,100:1f2937&text=Raman%20Patra&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Backend%20Engineer%20•%20MERN%20Stack%20•%20System%20Design&descAlignY=58&descColor=cbd5e1"/>
-</p>
+<br/>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=devraman07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-Backend-focused engineer passionate about building secure, scalable, and production-ready systems.
+<br/><br/>
 
-**Current Focus**
-- Backend Architecture
-- Authentication & Authorization
-- Scalable APIs
-- Distributed Systems
-- Performance Optimization
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://github.com/devraman07">
+  <img src="https://img.shields.io/badge/GitHub-devraman07-181717?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## Tech Stack
+# About Me
+
+Backend-focused engineer passionate about building **secure, scalable, and reliable systems**. I focus on understanding how systems work internally and building production-inspired backend architectures.
+
+### Current Focus
+
+- Backend Architectures & API Design
+- Authentication, Authorization & Security
+- Multi-Tenant SaaS Applications
+- Performance Optimization & Caching
+- System Design & Distributed Systems
+
+> *"I don't just build features — I aim to understand how systems work underneath."*
+
+---
+
+# Tech Stack
 
 ### Backend
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Redis` `REST APIs` `JWT` `RBAC`
+
+`Node.js` • `Express.js` • `MongoDB` • `Redis` • `PostgreSQL` • `REST APIs` • `JWT` • `RBAC`
 
 ### Frontend
-`React.js` `TypeScript` `JavaScript` `Tailwind CSS`
+
+`React.js` • `TypeScript` • `JavaScript` • `Tailwind CSS`
 
 ### DevOps & Tools
-`Docker` `Git` `GitHub Actions` `Postman` `Vercel`
+
+`Docker` • `Git` • `GitHub Actions` • `Postman` • `VS Code` • `Vercel`
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Multi-Tenant SaaS CRM
-Production-style CRM system with:
-- Multi-tenant architecture
-- JWT authentication
-- RBAC authorization
-- Secure REST APIs
-- Organization management
+## Multi-Tenant SaaS CRM *(In Progress)*
 
-### Authentication System
-Secure authentication implementation:
-- Access + Refresh Token Flow
-- Email Verification
-- Password Reset
-- Session Security
-- Role-Based Access Control
+A scalable CRM system designed for managing organizations and workflows.
 
-### Backend Systems Playground
-Backend engineering implementations:
-- Redis Caching
-- Rate Limiting
-- Logging Systems
-- Middleware Architecture
-- Background Jobs
+| Feature | Status |
+|----------|--------|
+| Tenant-based architecture | ✅ |
+| JWT Authentication | ✅ |
+| RBAC Authorization | ✅ |
+| Secure REST APIs | ✅ |
+| Scalable Database Design | ✅ |
+| Organization & Role Management | ✅ |
 
 ---
 
-## GitHub Analytics
+## Authentication System
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devraman07&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraman07&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
+A production-inspired authentication system implementing real-world security patterns.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devraman07&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devraman07&theme=github-dark&hide_border=true"/>
-</p>
+| Feature | Status |
+|----------|--------|
+| Access + Refresh Token Flow | ✅ |
+| Email Verification | ✅ |
+| Password Reset Flow | ✅ |
+| RBAC Authorization | ✅ |
+| Session Security | ✅ |
 
 ---
 
-## 2026 Focus
+## Backend Systems Playground
 
-- Master scalable backend systems  
-- Strengthen DSA and problem solving  
-- Build production-grade systems  
-- Learn distributed systems deeply  
-- Become a strong backend/FDE engineer
+Backend engineering concepts implemented from scratch.
+
+`Redis Caching` • `Rate Limiting` • `Logging Systems` • `Middleware Architecture` • `API Security` • `Background Jobs`
 
 ---
 
-## Connect
+# GitHub Analytics
 
-GitHub: `devraman07`  
-LinkedIn: `your-linkedin`  
-Email: `your-email@example.com`
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devraman07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devraman07&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devraman07&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+# 2026 Goals
+
+```text
+[ ] Master scalable backend system design
+[ ] Solve DSA problems consistently every day
+[ ] Build and ship production-level backend systems
+[ ] Deepen expertise in distributed systems
+[ ] Become a strong Backend / FDE Engineer
+```
+
+---
+
+# Engineering Philosophy
+
+```text
+Build Systems  >  Build Features
+Consistency    >  Motivation
+Depth          >  Quantity
+Learning       >  Ego
+```
+
+---
+
+<div align="center">
+
+### Building in Public • Learning Daily • Engineering Scalable Systems
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
+
+</div>
