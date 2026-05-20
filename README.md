@@ -1,272 +1,224 @@
-<h1 align="center">Hi 👋, Myself Raman Patra</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Engineer • Scalable Systems • MERN Stack
-</h3>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Raman%20Patra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Scalable%20Systems%20%E2%80%A2%20MERN%20Stack&descSize=16&descAlignY=58&descColor=8ba7c7" />
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Building+Scalable+Systems;Learning+System+Design;MERN+Stack+Developer"
-    alt="Typing Animation"
-  />
-</p>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Learning+System+Design+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%92%BB" alt="Typing Animation" />
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=devraman07&label=Profile%20Views&color=0e75b6&style=flat" 
-    alt="Profile Views"
-  />
-</p>
+<br/>
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=devraman07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/devraman07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<!-- Badges -->
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/devraman07">
+  <img src="https://img.shields.io/badge/GitHub-devraman07-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 🧑‍💻 About Me
 
-I am a **backend-focused engineer** passionate about building **secure, scalable, and reliable systems**.
-
-I enjoy working on:
-
-- ⚙️ **Backend Architectures**
-- 🔐 **Authentication & Security Systems**
-- 🏢 **Multi-Tenant SaaS Applications**
-- ⚡ **Performance Optimization**
-- 🧠 **System Design & Engineering Fundamentals**
-
-> **"I don’t just build features — I aim to understand how systems work underneath."**
-
----
-
-# 🧠 Current Focus
+Backend-focused engineer passionate about building **secure, scalable, and reliable systems**. I go beyond shipping features — I dig into how systems work from first principles.
 
 ```yaml
-Current Mission:
-  - Building scalable backend systems
-  - Learning backend from first principles
-  - Practicing DSA daily
-  - Studying system design
-  - Building real-world projects
+Focus Areas:
+  - Backend Architectures & API Design
+  - Authentication, Authorization & Security
+  - Multi-Tenant SaaS Applications
+  - Performance Optimization & Caching
+  - System Design & Distributed Systems
 ```
 
+> *"I don't just build features — I aim to understand how systems work underneath."*
+
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ⚙️ Backend Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres" />
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres&theme=dark" />
 </p>
 
-- REST APIs  
-- JWT Authentication  
-- RBAC (Role-Based Access Control)  
-- Rate Limiting  
-- Redis Caching  
-- API Security  
-- Scalable Backend Design  
+`Node.js` &nbsp; `Express.js` &nbsp; `MongoDB` &nbsp; `Redis` &nbsp; `PostgreSQL` &nbsp; `REST APIs` &nbsp; `JWT` &nbsp; `RBAC`
 
----
-
-## 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js&theme=dark" />
 </p>
 
----
+`React` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `JavaScript`
 
-## ☁️ DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel" />
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel&theme=dark" />
 </p>
 
+`Docker` &nbsp; `Git` &nbsp; `GitHub Actions` &nbsp; `Postman` &nbsp; `VS Code` &nbsp; `Vercel`
+
 ---
 
-# 🏗️ Engineering Interests
+## 🚀 Featured Projects
+
+### 🏢 Multi-Tenant SaaS CRM *(In Progress)*
+> A scalable CRM system designed for managing organizations and workflows.
+
+| Feature | Status |
+|---|---|
+| Tenant-based architecture | ✅ |
+| JWT Authentication | ✅ |
+| RBAC Authorization | ✅ |
+| Secure REST APIs | ✅ |
+| Scalable Database Design | ✅ |
+| Organization & Role Management | ✅ |
+
+---
+
+### 🔐 Authentication System
+> A production-inspired auth system with real-world security patterns.
+
+| Feature | Status |
+|---|---|
+| Access + Refresh Token Flow | ✅ |
+| Email Verification | ✅ |
+| Password Reset Flow | ✅ |
+| RBAC Authorization | ✅ |
+| Session Security | ✅ |
+
+---
+
+### ⚡ Backend Systems Playground
+> Backend engineering concepts implemented from scratch.
+
+`Redis Caching` &nbsp; `Rate Limiting` &nbsp; `Logging Systems` &nbsp; `Middleware Architecture` &nbsp; `API Security` &nbsp; `Background Jobs`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devraman07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devraman07&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devraman07&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devraman07&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<!-- 
+  NOTE: To enable the snake animation, add this GitHub Action to your repo:
+  File: .github/workflows/snake.yml
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: devraman07
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<img src="https://raw.githubusercontent.com/devraman07/devraman07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
 
 ```text
-Backend Architecture
-Scalable Systems
-API Security
-Authentication Systems
-Database Design
-Caching Strategies
-System Design
-Performance Optimization
-Distributed Systems
+[ ] Master scalable backend system design
+[ ] Solve DSA problems consistently every day
+[ ] Build and ship production-level backend systems
+[ ] Deepen expertise in distributed systems
+[ ] Land a high-impact engineering role
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Engineering Philosophy
 
-## 🏢 Multi-Tenant SaaS CRM *(In Progress)*
-
-A scalable CRM system designed for managing organizations and workflows.
-
-### Features
-✔ Tenant-based architecture  
-✔ JWT Authentication  
-✔ RBAC Authorization  
-✔ Secure APIs  
-✔ Scalable Database Design  
-✔ Organization & Role Management  
-
----
-
-## 🔐 Authentication System
-
-A production-inspired authentication system with real-world features.
-
-### Features
-✔ Access + Refresh Token Flow  
-✔ Email Verification  
-✔ Password Reset Flow  
-✔ RBAC Authorization  
-✔ Session Security  
-
----
-
-## ⚡ Backend Systems Playground
-
-A collection of backend engineering concepts implemented from scratch.
-
-### Includes
-✔ Redis Caching  
-✔ Rate Limiting Middleware  
-✔ Logging Systems  
-✔ Middleware Architecture  
-✔ API Security Concepts  
-✔ Background Job Processing  
-
----
-
-# 🔥 Coding Consistency
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=devraman07&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
-  />
-</p>
-
-> Shows **Current Streak**, **Longest Streak**, and total contribution consistency.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=devraman07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devraman07&theme=tokyo-night&hide_border=true" 
-    width="95%"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/devraman07/devraman07/output/github-contribution-grid-snake-dark.svg" 
-    alt="Snake animation"
-  />
-</p>
-
-> **Important:** This requires a GitHub Action setup to work.
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=devraman07&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"
-  />
-</p>
-
----
-
-# 📌 Engineering Philosophy
-
-```text
-Build Systems > Build Features
-Consistency > Motivation
-Depth > Quantity
-Learning > Ego
+```
+Build Systems  >  Build Features
+Consistency    >  Motivation
+Depth          >  Quantity
+Learning       >  Ego
 ```
 
 ---
 
-# 🎯 2026 Goals
+<div align="center">
 
-```yaml
-Goals:
-  - Become an elite backend engineer
-  - Master scalable system design
-  - Solve DSA consistently
-  - Build production-level backend systems
-  - Get high-impact engineering opportunities
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
----
+<br/><br/>
 
-# 📅 Current Learning Journey
+**Building in public • Learning daily • Engineering scalable systems**
 
-```text
-Backend Development → System Design → Scalable Systems
-Daily DSA → Problem Solving Mindset
-Building in Public → Consistency & Growth
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 
----
-
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-  />
-</p>
-
----
-
-<h3 align="center">🤝 Connect & Collaborate</h3>
-
-<p align="center">
-Building in public • Learning daily • Engineering scalable systems
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
+</div>
