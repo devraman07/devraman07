@@ -109,13 +109,11 @@ Backend engineering concepts implemented from scratch.
 
 # Contribution Streak
 
-<!-- STREAK_START -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devraman07&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&cachebust=TIMESTAMP_PLACEHOLDER" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=devraman07&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
-<!-- STREAK_END -->
 
 ---
 
