@@ -24,7 +24,7 @@
 
 ---
 
-# About Me
+## About Me
 
 Backend-focused engineer passionate about building **secure, scalable, and reliable systems**. I focus on understanding how systems work internally and building production-inspired backend architectures.
 
@@ -40,30 +40,27 @@ Backend-focused engineer passionate about building **secure, scalable, and relia
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Backend
-
+**Backend**
 `Node.js` • `Express.js` • `MongoDB` • `Redis` • `PostgreSQL` • `REST APIs` • `JWT` • `RBAC`
 
-### Frontend
-
+**Frontend**
 `React.js` • `TypeScript` • `JavaScript` • `Tailwind CSS`
 
-### DevOps & Tools
-
+**DevOps & Tools**
 `Docker` • `Git` • `GitHub Actions` • `Postman` • `VS Code` • `Vercel`
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## Multi-Tenant SaaS CRM *(In Progress)*
+### Multi-Tenant SaaS CRM *(In Progress)*
 
 A scalable CRM system designed for managing organizations and workflows.
 
 | Feature | Status |
-|----------|--------|
+|---|---|
 | Tenant-based architecture | ✅ |
 | JWT Authentication | ✅ |
 | RBAC Authorization | ✅ |
@@ -71,23 +68,19 @@ A scalable CRM system designed for managing organizations and workflows.
 | Scalable Database Design | ✅ |
 | Organization & Role Management | ✅ |
 
----
-
-## Authentication System
+### Authentication System
 
 A production-inspired authentication system implementing real-world security patterns.
 
 | Feature | Status |
-|----------|--------|
+|---|---|
 | Access + Refresh Token Flow | ✅ |
 | Email Verification | ✅ |
 | Password Reset Flow | ✅ |
 | RBAC Authorization | ✅ |
 | Session Security | ✅ |
 
----
-
-## Backend Systems Playground
+### Backend Systems Playground
 
 Backend engineering concepts implemented from scratch.
 
@@ -95,7 +88,7 @@ Backend engineering concepts implemented from scratch.
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -107,7 +100,7 @@ Backend engineering concepts implemented from scratch.
 
 ---
 
-# Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -117,7 +110,7 @@ Backend engineering concepts implemented from scratch.
 
 ---
 
-# Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -127,19 +120,17 @@ Backend engineering concepts implemented from scratch.
 
 ---
 
-# 2026 Goals
+## 2026 Goals
 
-```text
-[ ] Master scalable backend system design
-[ ] Solve DSA problems consistently every day
-[ ] Build and ship production-level backend systems
-[ ] Deepen expertise in distributed systems
-[ ] Become a strong Backend / FDE Engineer
-```
+- [ ] Master scalable backend system design
+- [ ] Solve DSA problems consistently every day
+- [ ] Build and ship production-level backend systems
+- [ ] Deepen expertise in distributed systems
+- [ ] Become a strong Backend / FDE Engineer
 
 ---
 
-# Engineering Philosophy
+## Engineering Philosophy
 
 ```text
 Build Systems  >  Build Features
