@@ -8,11 +8,11 @@
 
 <br/><br/>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:raman.patra.dev@example.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=for-the-badge" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/raman-patra/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
 </a>
 &nbsp;
@@ -137,14 +137,3 @@ Build Systems  >  Build Features
 Consistency    >  Motivation
 Depth          >  Quantity
 Learning       >  Ego
-```
-
----
-
-<div align="center">
-
-### Building in Public • Learning Daily • Engineering Scalable Systems
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
-
-</div>
